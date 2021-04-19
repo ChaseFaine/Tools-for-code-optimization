@@ -1,0 +1,8 @@
+You need to modify NgramFast.C and NgramFast.h to solve the
+ngram problem.  This solution cannot use any of the C++ STL.
+
+You also need to modify NgramSTL.C and NgramSTL.h to solve the
+ngram problem.  This solution must use the C++ STL.
+
+Be sure to add your name and your partner's name (if you
+work with one) to the top of the main.C file.
